@@ -1,0 +1,41 @@
+[33mcommit 65e2d9e08d9fbae7d73c310c81cfaad612fd3c06[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hayslan <hayslan.1997@gmail.com>
+Date:   Mon Jul 29 16:48:02 2019 -0300
+
+    consertando as coisas
+
+[33mcommit 43b80fbe8c2f3b54829c277391bedc0b89972e2d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gabriel Roger <gabriel.nroger@gmail.com>
+Date:   Mon Jul 29 16:14:26 2019 -0300
+
+    configurar heroku
+
+[33mcommit d5de4ab1470fb579fba67e74a5000eb4984e8fcd[m
+Author: Gabriel Roger <gabriel.nroger@gmail.com>
+Date:   Mon Jul 29 15:07:16 2019 -0300
+
+    deletar logicamente ideia
+
+[33mcommit cd98472ca0646919ecb5ecdc58d2995bb4122263[m
+Author: Gabriel Roger <gabriel.nroger@gmail.com>
+Date:   Fri Jul 26 16:59:57 2019 -0300
+
+    sistema funcional
+
+[33mcommit 3768c5dba5165f4ef03e5ea39353eccb8f0bb30a[m
+Author: Gabriel Roger <gabriel.nroger@gmail.com>
+Date:   Fri Jul 26 15:06:04 2019 -0300
+
+    adicionar model ideias
+
+[33mcommit 1cf76e08f00bf2dd23d0dcb8e004599a7cb23a29[m
+Author: Gabriel Roger <gabriel.nroger@gmail.com>
+Date:   Thu Jul 25 16:56:26 2019 -0300
+
+    criar models, formularios, listar e salvar na base
+
+[33mcommit 0b815123bc0e92183894db48d67620d3f69174f4[m
+Author: Gabriel Roger <gabriel.nroger@gmail.com>
+Date:   Wed Jul 24 17:05:10 2019 -0300
+
+    first commit
